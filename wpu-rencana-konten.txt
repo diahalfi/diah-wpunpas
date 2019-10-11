@@ -1,7 +1,9 @@
 rencana konten wpu
 - buat video js
     # frame work js
-        * react
+        *angular
+        *react
 - php framework
+    *code igniter
     #laravel
 - struktur data dasar
