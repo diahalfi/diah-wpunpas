@@ -5,4 +5,5 @@ rencana konten wpu
         *react
 - php framework
     *code igniter
+    #laravel
 - struktur data dasar
